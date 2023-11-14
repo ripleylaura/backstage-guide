@@ -1,5 +1,5 @@
 ---
-title: "Implementing Backstage 1: Getting Started"
+title: "Implementing Backstage: Getting started with Backstage CLI"
 authors:
   - Erik Burger
 ---
